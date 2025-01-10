@@ -1,5 +1,3 @@
-
-
 with open("input.txt", 'r') as file:
     data = [*map(int,file.read().split())]
 
